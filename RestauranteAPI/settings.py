@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'Delivery_Person',
     'Order_Dispatcher',
     'corsheaders',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
