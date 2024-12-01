@@ -68,4 +68,4 @@ La API incluye los siguientes módulos:
 - **Personal de Entrega:** `/delivery_person/`
 - **Despachador de Órdenes:** `/order_dispatcher/`
 
-Para más detalles sobre cada endpoint, consulta la documentación interactiva en Swagger o ReDoc.
+
